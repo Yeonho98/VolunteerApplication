@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_category1.xml" value="0.25" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_category2.xml" value="0.25" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_category_organizationlist.xml" value="0.18" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_categoryorganizationlist.xml" value="0.1" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_individual_organization.xml" value="0.22" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_individual_organization_sub.xml" value="0.2" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_main_contract.xml" value="0.22" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_main_dbm.xml" value="0.18" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_main_private.xml" value="0.31476449275362317" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_main_public.xml" value="0.33" />
+        <entry key="..\:/Users/hskang/Desktop/Coding/Android Studio/UI_Frame/app/src/main/res/layout/activity_mypage.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
